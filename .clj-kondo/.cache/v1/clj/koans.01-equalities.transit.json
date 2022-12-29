@@ -1,0 +1,1 @@
+["^ ","~$keyword",["^ ","~:row",30,"~:col",21,"~:fixed-arities",["~#set",[0]],"~:name","^0","~:ns","~$koans.01-equalities","~:top-ns","^7","~:arities",["^ ","~i0",["^ ","~:ret","~:keyword","~:arglist-str","[]"]],"~:type","~:fn"],"~:filename","/home/zxx/Codes/clojure/cloned/clojure-koans/src/koans/01_equalities.clj"]
