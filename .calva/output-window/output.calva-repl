@@ -20,3 +20,27 @@ clj꞉user꞉>  ; Use `alt+enter` to evaluate
 clj꞉user꞉> 
 (1 (+ 2 3))
 clj꞉koans.18-quote꞉> 
+; clojure.lang.ExceptionInfo: Unable to resolve classname: Nobel koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:1:12
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ExceptionInfo: Unable to resolve classname: Nobel koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:2:16
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ExceptionInfo: Unable to resolve classname: Nobel koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:2:16
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ExceptionInfo: Could not resolve symbol: present koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:1:1
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ExceptionInfo: Protocol not found: Award koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:1:1
+clj꞉koans.19-datatypes꞉> 
+; java.lang.Exception: Could not find namespace: koan-engine.core. koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:2:3
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ExceptionInfo: Protocol not found: Award koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:1:1
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ExceptionInfo: Protocol not found: Award koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:1:1
+clj꞉koans.19-datatypes꞉> 
+Award
+clj꞉koans.19-datatypes꞉> 
+koans.19_datatypes.Razzie
+clj꞉koans.19-datatypes꞉> 
+; clojure.lang.ArityException: Wrong number of args (1) passed to: sci.impl.fns/fun/arity-2--1196 koans.19-datatypes /home/zxx/Codes/clojure/clojure-koans/src/koans/19_datatypes.clj:1:1
+clj꞉koans.19-datatypes꞉> 
+You're really Worst Picture, w... sorry.nil
+clj꞉koans.19-datatypes꞉> 
